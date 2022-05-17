@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto Flutter que mostra o uso do Material Dsesign 3.
+Testando o Material Design 3 em um projeto Flutter.
 
 ## Preview
 
