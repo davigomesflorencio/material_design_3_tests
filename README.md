@@ -6,9 +6,12 @@ Projeto Flutter que mostra o uso do Material Dsesign 3.
 
 ## Preview
 
-![Screenshot](assets/md2.jpg)
+<img src="assets/md2.jpg" alt="drawing" style="width:200px;"/>
+<img src="assets/md3.jpg" alt="drawing" style="width:200px;"/>
 
-![Screenshot](assets/md3.jpg)
+<!-- ![Screenshot](assets/md2.jpg) -->
+
+<!-- ![Screenshot](assets/md3.jpg) -->
 
 ## Começando
 
