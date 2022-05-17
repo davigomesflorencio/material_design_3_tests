@@ -2,7 +2,13 @@
 
 ## Descrição
 
-Projeto Flutter que mostra o uso do material design 3.
+Projeto Flutter que mostra o uso do Material Dsesign 3.
+
+## Preview
+
+![Screenshot](assets/md2.jpg)
+
+![Screenshot](assets/md3.jpg)
 
 ## Começando
 
